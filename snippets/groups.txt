@@ -1,0 +1,17 @@
+⚪⚪⚪节点选择⚪⚪⚪`select`[]🔴🔴🔴手动选择🔴🔴🔴`[]DIRECT`[]REJECT
+🚧 广告拦截`select`[]REJECT`[]DIRECT`[]⚪⚪⚪节点选择⚪⚪⚪
+🚧⛔ 应用广告拦截`select`[]REJECT`[]DIRECT`[]⚪⚪⚪节点选择⚪⚪⚪
+☠️ 被墙网站`select`[]⚪⚪⚪节点选择⚪⚪⚪`[]DIRECT
+🚲 未墙网站`select`[]DIRECT`[]REJECT`[]⚪⚪⚪节点选择⚪⚪⚪
+🚓 国内网站`select`[]DIRECT`[]REJECT`[]⚪⚪⚪节点选择⚪⚪⚪
+🎵 网易云音乐`select`[]DIRECT`[]REJECT`(网易云音乐)`[]⚪⚪⚪节点选择⚪⚪⚪
+🔵🔵🔵其他连接🔵🔵🔵`select`[]⚪⚪⚪节点选择⚪⚪⚪`[]DIRECT
+✈️ Telegram`select`[]⚪⚪⚪节点选择⚪⚪⚪`[]DIRECT`(港|台|日|韩)
+🔴🔴🔴手动选择🔴🔴🔴`select`.*
+📺 哔哩哔哩`select`[]DIRECT`[]⚪⚪⚪节点选择⚪⚪⚪`(港|台|日|韩)
+☎️ 内网连接`select`[]DIRECT`[]REJECT`[]⚪⚪⚪节点选择⚪⚪⚪
+🚫 机场拦截`select`[]REJECT`[]DIRECT`[]⚪⚪⚪节点选择⚪⚪⚪
+🚫 机场绕行`select`[]DIRECT`[]REJECT`[]⚪⚪⚪节点选择⚪⚪⚪
+威胁拦截`select`[]REJECT
+直连速递`select`[]DIRECT
+偏执代理`select`[]🔴🔴🔴手动选择🔴🔴🔴

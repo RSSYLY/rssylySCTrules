@@ -1,0 +1,21 @@
+威胁拦截,https://github.com/RSSYLY/rssylySCTrules/raw/master/rules/RSSYLY/Forceban.list
+直连速递,https://github.com/RSSYLY/rssylySCTrules/raw/master/rules/RSSYLY/Forcedbypass.list
+偏执代理,https://github.com/RSSYLY/rssylySCTrules/raw/master/rules/RSSYLY/Forcedproxy.list
+🚫 机场拦截,https://github.com/RSSYLY/rssylySCTrules/raw/master/rules/RSSYLY/Serviceproviderban.list
+🚫 机场绕行,rules/NobyDa/Surge/Download.list
+🚫 机场绕行,https://github.com/RSSYLY/rssylySCTrules/raw/master/rules/RSSYLY/Serviceproviderpassby.list
+☎️ 内网连接,rules/LocalAreaNetwork.listt
+🚧 广告拦截,rules/ACL4SSR/Clash/BanAD.list
+🚧 广告拦截,https://github.com/RSSYLY/rssylySCTrules/raw/master/rules/RSSYLY/banwebAD.list
+🚧⛔ 应用广告拦截,rules/ACL4SSR/Clash/BanProgramAD.list
+✈️ Telegram,rules/ACL4SSR/Clash/Telegram.list
+🎵 网易云音乐,https://github.com/RSSYLY/rssylySCTrules/raw/master/rules/RSSYLY/Neteasecloudmusic.list
+📺 哔哩哔哩,rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list
+🚓 国内网站,rules/ConnersHua/Surge/Ruleset/China.list
+🚓 国内网站,[]GEOIP,CN
+🚲 未墙网站,rules/ConnersHua/Surge/Ruleset/Apple.list
+🚲 未墙网站,rules/ConnersHua/Surge/Ruleset/Unbreak.list
+🚲 未墙网站,rules/ACL4SSR/Clash/ChinaCompanyIp.list
+🚲 未墙网站,rules/ACL4SSR/Clash/Microsoft.list
+☠️ 被墙网站,rules/ACL4SSR/Clash/ProxyGFWlist.list
+🔵🔵🔵其他连接🔵🔵🔵,[]FINAL
