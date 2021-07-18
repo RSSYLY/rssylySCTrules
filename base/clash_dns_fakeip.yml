@@ -35,14 +35,14 @@ dns:
   nameserver:
     - https://doh.pub/dns-query
     - https://dns.alidns.com/dns-query
-  fallback:
-    - tls://one.one.one.one:853
-    - tls://dns.google:853
-    - https://dns.twnic.tw/dns-query
-    - https://dns.adguard.com/dns-query
-    - https://doh.dns.sb/dns-query
-  fallback-filter:
-    geoip: true
-    ipcidr:
-      - 240.0.0.0/4
+  #fallback:
+    #- tls://one.one.one.one:853
+    #- tls://dns.google:853
+    #- https://dns.twnic.tw/dns-query
+    #- https://dns.adguard.com/dns-query
+    #- https://doh.dns.sb/dns-query
+  #fallback-filter:
+    #geoip: true
+    #ipcidr:
+      #- 240.0.0.0/4
 
