@@ -4,7 +4,7 @@ mixed-port: 7890
 # HTTP 代理端口
 port: 7893
 
-# SOCKS5 代理端口cors-anywhere.herokuapp.com
+# SOCKS5 代理端口
 socks-port: 7891
 
 # Linux 和 macOS 的 redir 代理端口 (如需使用此功能，请取消注释)
@@ -43,3 +43,4 @@ dns:
     geoip: true
     ipcidr:
       - 240.0.0.0/4
+
