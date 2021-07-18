@@ -36,8 +36,11 @@ dns:
     - https://doh.pub/dns-query
     - https://dns.alidns.com/dns-query
   fallback:
-    - https://dns.rubyfish.cn/dns-query
-    - https://8.8.4.4/dns-query
+    - tls://one.one.one.one:853
+    - tls://dns.google:853
+    - https://dns.twnic.tw/dns-query
+    - https://dns.adguard.com/dns-query
+    - https://doh.dns.sb/dns-query
   fallback-filter:
     geoip: true
     ipcidr:
