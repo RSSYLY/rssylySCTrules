@@ -46,8 +46,8 @@ dns:
     - https://dns.adguard.com/dns-query
     - https://doh.dns.sb/dns-query
 
-# 使用fallback域名
- fallback-filter:
+  # 使用fallback域名
+  fallback-filter:
     geoip: true
     ipcidr:
       - 240.0.0.0/4
