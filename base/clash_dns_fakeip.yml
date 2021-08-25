@@ -41,7 +41,6 @@ dns:
     - https://dns.alidns.com/dns-query
   fallback:
     - 101.6.6.6:5353
-    - https://google.doh.666old666.cn/dns-query
     - https://dns.twnic.tw/dns-query
     - https://dns.adguard.com/dns-query
     - https://doh.dns.sb/dns-query
