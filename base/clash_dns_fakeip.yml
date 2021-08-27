@@ -40,7 +40,7 @@ dns:
     - https://doh.pub/dns-query
     - https://dns.alidns.com/dns-query
   fallback:
-    - https://mos.doh.rste.club//dns-query
+    - https://mos.doh.rste.club/dns-query
     #- 101.6.6.6:5353
     #- https://dns.twnic.tw/dns-query
     #- https://dns.adguard.com/dns-query
