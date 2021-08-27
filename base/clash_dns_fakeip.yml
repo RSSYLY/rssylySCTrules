@@ -40,10 +40,11 @@ dns:
     - https://doh.pub/dns-query
     - https://dns.alidns.com/dns-query
   fallback:
-    - 101.6.6.6:5353
-    - https://dns.twnic.tw/dns-query
-    - https://dns.adguard.com/dns-query
-    - https://doh.dns.sb/dns-query
+    - https://mos.doh.rste.club//dns-query
+    #- 101.6.6.6:5353
+    #- https://dns.twnic.tw/dns-query
+    #- https://dns.adguard.com/dns-query
+    #- https://doh.dns.sb/dns-query
 
   # 使用fallback域名
   fallback-filter:
