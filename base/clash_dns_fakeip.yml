@@ -41,6 +41,7 @@ dns:
     - https://dns.alidns.com/dns-query
   fallback:
     - https://mos.doh.rste.club/dns-query
+    - https://hk.doh.rste.club/dns-query
   # 使用fallback域名
   fallback-filter:
     geoip: true
